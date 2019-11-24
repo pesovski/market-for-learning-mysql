@@ -12,7 +12,7 @@ $username = '';
 $password = '';
 $databaseName = '';
 
-That's it. If you now open the project from your local server, you should be welcomed with a view of a online market showing all the projects contained in the database.
+That's it. If you now open the project from your local server, you should be welcomed with a view of an online market showing all the products contained in the database.
 To increase your SQL quering skills, try to write SQL queries for the following scenarios.
 
 1. Find all the products that have free shipping
