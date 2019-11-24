@@ -26,3 +26,4 @@ To increase your SQL quering skills, try to write SQL queries for the following 
 9. Find all the products that are added in someone's cart
 10. Find all the products purchased by a person whose surname starts with 'D'
 11. Find all the products that are purchased, but the order is still not fully completed
+12. Find whether Jane Doe has ordered any products from the Sports category
